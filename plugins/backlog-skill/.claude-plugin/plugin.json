@@ -1,0 +1,22 @@
+{
+  "name": "backlog-skill",
+  "description": "Nulab Backlog integration for Claude Code. Issue tracking, project management, and notifications through natural language using Bun scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abekdwight"
+  },
+  "license": "MIT",
+  "keywords": ["backlog", "nulab", "project-management", "issue-tracking", "bun"],
+  "homepage": "https://github.com/abekdwight/claude-code-plugin/tree/main/plugins/backlog-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abekdwight/claude-code-plugin"
+  },
+  "bugs": {
+    "url": "https://github.com/abekdwight/claude-code-plugin/issues"
+  },
+  "requirements": {
+    "runtime": ["bun"],
+    "environment": ["BACKLOG_DOMAIN", "BACKLOG_API_KEY"]
+  }
+}

@@ -1,0 +1,38 @@
+# Claude Code設定（APIキーを含む可能性あり）
+**/.claude/settings.json
+**/.claude/settings.local.json
+
+# 環境変数ファイル
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+
+# OS生成ファイル
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node.js / Bun
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun.lockb
+
+# テスト・デバッグ
+*.log
+logs/
+coverage/

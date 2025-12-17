@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "abekdwight-plugins",
+  "description": "Claude Code plugins collection including Backlog integration and productivity tools",
+  "owner": {
+    "name": "abekdwight",
+    "email": "abekdwight@example.com"
+  },
+  "plugins": [
+    {
+      "name": "backlog-skill",
+      "description": "Nulab Backlog integration using Bun scripts (no MCP). Issue tracking and notifications through natural language.",
+      "author": {
+        "name": "abekdwight"
+      },
+      "source": "./plugins/backlog-skill",
+      "category": "productivity",
+      "homepage": "https://github.com/abekdwight/claude-code-plugin/tree/main/plugins/backlog-skill",
+      "tags": ["backlog", "nulab", "project-management", "issue-tracking", "bun"]
+    }
+  ]
+}
