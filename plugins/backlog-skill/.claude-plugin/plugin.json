@@ -8,15 +8,5 @@
   "license": "MIT",
   "keywords": ["backlog", "nulab", "project-management", "issue-tracking", "bun"],
   "homepage": "https://github.com/abekdwight/claude-code-plugin/tree/main/plugins/backlog-skill",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/abekdwight/claude-code-plugin"
-  },
-  "bugs": {
-    "url": "https://github.com/abekdwight/claude-code-plugin/issues"
-  },
-  "requirements": {
-    "runtime": ["bun"],
-    "environment": ["BACKLOG_DOMAIN", "BACKLOG_API_KEY"]
-  }
+  "repository": "https://github.com/abekdwight/claude-code-plugin"
 }
