@@ -1,6 +1,6 @@
 {
   "name": "backlog-skill",
-  "description": "Nulab Backlog integration for Claude Code. Issue tracking, project management, and notifications through natural language using Bun scripts.",
+  "description": "Nulab Backlog integration for Claude Code. Issue tracking, project management, and notifications through natural language using Bun scripts. Requires: Bun runtime, BACKLOG_DOMAIN and BACKLOG_API_KEY environment variables.",
   "version": "1.0.0",
   "author": {
     "name": "abekdwight"
