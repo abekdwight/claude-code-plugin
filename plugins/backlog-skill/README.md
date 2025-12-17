@@ -1,5 +1,7 @@
 # Backlog Skill
 
+[日本語](./README.ja.md)
+
 [Nulab Backlog](https://backlog.com/) integration for Claude Code.
 
 Based on [nulab/backlog-mcp-server](https://github.com/nulab/backlog-mcp-server), reimplemented as a Claude Code Skill without MCP dependencies.
@@ -46,15 +48,15 @@ Backlog → User Icon → Personal Settings → API → Generate
 Just talk to Claude:
 
 ```
-課題 PROJECT-123 の詳細を見せて
+Show me the details of PROJECT-123
 ```
 
 ```
-新しいバグ課題を作成して
+Create a new bug issue
 ```
 
 ```
-未読の通知を確認
+Check unread notifications
 ```
 
 ## Commands
